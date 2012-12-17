@@ -1,8 +1,17 @@
 Joy Of Regexps
 ==============
 
-Format: talk/hands-on session
+Format: presentation + workshop
 Length: 60 minutes
+
+Bio
+---
+
+Daan van Berkel is a enthusiastic software craftsman working for
+Luminis. Daan has a knack for presenting technical details in a clear
+and concise manner. Driven by the desire for understanding complex
+matters Daan is always on the lookout for innovative uses of
+software. 
 
 Abstract
 --------
@@ -37,5 +46,9 @@ excercise our new found insight by solving though problems with
 easy. During the talk a playground is introduced which allows
 developers to experience the joy of their newly acquired skill.
 
+Target
+------
+
+Developers with a interesting in improving their regular expression skills.
 
 [regexps]: http://en.wikipedia.org/wiki/Regular_expressions "Wikipedia on Regular Expressions"
