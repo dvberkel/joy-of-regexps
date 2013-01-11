@@ -11,6 +11,14 @@ Joy of Coding
 [Joy of Coding][joy] is a conference organized by developers for
 developers. It targets the stuff developers love to talks about.
 
+Organisation
+------------
+
+The repository is organised into the following parts
+
+* [presentation][]
+
 [proposal]: https://github.com/dvberkel/joy-of-regexps/blob/master/proposal.md
 [joy]: http://joyofcoding.org/ "Conference homepage"
 [trello]: https://trello.com/board/joy-of-regexps/50cf3b56401ee74568005612
+[presentation]: https://github.com/dvberkel/joy-of-regexps/tree/master/presentation 
