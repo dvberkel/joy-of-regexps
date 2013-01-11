@@ -17,8 +17,10 @@ Organisation
 The repository is organised into the following parts
 
 * [presentation][]
+* [code][]
 
 [proposal]: https://github.com/dvberkel/joy-of-regexps/blob/master/proposal.md
 [joy]: http://joyofcoding.org/ "Conference homepage"
 [trello]: https://trello.com/board/joy-of-regexps/50cf3b56401ee74568005612
-[presentation]: https://github.com/dvberkel/joy-of-regexps/tree/master/presentation 
+[presentation]: https://github.com/dvberkel/joy-of-regexps/tree/master/presentation
+[presentation]: https://github.com/dvberkel/joy-of-regexps/tree/master/code
